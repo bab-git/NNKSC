@@ -7,4 +7,4 @@ NNKSC is a kernel-based sparse coding and dictionary learning algorithm which en
 
 
 ## The paper
-Hosseini, Babak, et al. "Non-negative kernel sparse coding for the analysis of motion data." International Conference on Artificial Neural Networks (ICANN). Springer, Cham, 2016.
+Hosseini, Babak, et al. "Non-negative kernel sparse coding for the analysis of motion data.", *International Conference on Artificial Neural Networks (ICANN)*, Springer, Cham, 2016.
