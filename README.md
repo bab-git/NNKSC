@@ -4,3 +4,7 @@ NNKSC is a kernel-based sparse coding and dictionary learning algorithm which en
 - The NNKSC_main.m contain a test run of the NNKSC algorithm on 3 databases.
 - In order to use NNKSC in the supervised setting, (LC-NNKSC) the parameter LC_betta should be tuned to a non-zero weight.
 - More instruction is provided in the read_me.txt file.
+
+
+## The paper
+Hosseini, Babak, et al. "Non-negative kernel sparse coding for the analysis of motion data." International Conference on Artificial Neural Networks (ICANN). Springer, Cham, 2016.
